@@ -15,3 +15,4 @@ artifacts:
     - server.php
     - app/**/*
     - bootstrap/**/*
+  name: example-laravel-app-$(date +%Y-%m-%d) 
